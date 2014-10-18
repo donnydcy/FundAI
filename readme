@@ -1,0 +1,11 @@
+
+
+A testing AI program with following features:
+
+1. web spider to collecting news and data of specific fund or stock
+
+2. analyze the html files and get useful info
+
+3. import data from public dataset
+
+4. NLP and ML to generate predict model
